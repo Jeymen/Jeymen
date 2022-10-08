@@ -1,4 +1,4 @@
-# Jeymenz
+# Jeymen
 
 I'm an teenager creatings bugs. This is just the beggining of my journey! I own a discord server about coding - ![The Coding Empire](https://discord.gg/Z7NDVrTmDN)
 
