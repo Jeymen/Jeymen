@@ -1,8 +1,8 @@
 # Jeymen
 
-I'm an teenager creatings bugs. Remember - it's not a bug, it's a feature.
+I'm an teenager creatings bugs. This is just the beggining of my journey! I own a discord server about coding - ![The Coding Empire](https://discord.gg/Z7NDVrTmDN)
 
-   <
+   
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jeymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/Jeyment?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jeymen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
