@@ -1,11 +1,26 @@
-### Hi there 👋
-### <samp>&gt; Hi there, I'm Jeymen</samp>
-### Glad to see you here! 
+# Jeymen
 
-I am a active Discord user. I'm stil a newbie.
+I'm an teenager creatings bugs. Remember - it's not a bug, it's a feature.
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on a little project.;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I'm a Python developer ;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; If you wish to reach me, send me a friend request - Jeymen#5269;
+   <
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jeymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/Jeyment?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jeymen?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 ---
+### Languages
 
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<br />
+
+#
+
+### 📊 Stats
+
+![Jeymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Jeymen&theme=onedark&border_radius=4.5) -->
+
+#
