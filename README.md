@@ -1,7 +1,7 @@
 # 🔥 | Jeymen
 **`Tech Lover`**
 
-I'm an developer, with no experience! I know a little bit of Python, but I building my first project, while slowly learning more and more. I don't code much, but I still do sometimes. I own a discord server about - [📦 | The Coding Empire](https://discord.gg/Z7NDVrTmDN)
+I'm an developer, with no experience! I know a little bit of Python, and I building my first project, while slowly learning more and more. I don't code much, but I still do sometimes. [📦 | The Coding Empire](https://discord.gg/Z7NDVrTmDN)
 
    <a href="https://github.com/Jeymen/">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jeymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
