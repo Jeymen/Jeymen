@@ -1,7 +1,7 @@
 # 🔥 | Jeymen
 **`Tech Lover`**
 
-I'm an developer, with no experience! I am trying to into web development. [The Coding Empire](https://discord.gg/Z7NDVrTmDN)
+I'm an developer, with no experience! I am trying to into web development. I own an actively growing Discord server → [The Coding Empire](https://discord.gg/Z7NDVrTmDN)
 
    <a href="https://github.com/Jeymen/">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jeymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
