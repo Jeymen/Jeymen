@@ -1,7 +1,7 @@
 # 🔥 | Jeymen
 **`Tech Lover`**
 
-I'm an developer, with no experience! I know a little bit of Python, and I building my first project, while slowly learning more and more. I don't code much, but I still do sometimes. [📦 | The Coding Empire](https://discord.gg/Z7NDVrTmDN)
+I'm an developer, with no experience! I am trying to into web development. [The Coding Empire](https://discord.gg/Z7NDVrTmDN)
 
    <a href="https://github.com/Jeymen/">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Jeymen?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -28,8 +28,3 @@ I'm an developer, with no experience! I know a little bit of Python, and I build
 ![Jeymen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jeymen&theme=onedark&border_radius=4.5)
-
-#
-
-### 📨 | Reach me!
-If you wish to message, DM me at [@CodingJeymen](https://twitter.com/CodingJeymen) on Twitter, or Jeymen#5269 on [Discord](https://discord.com).
