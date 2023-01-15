@@ -6,6 +6,10 @@ I'm a full stack developer 💻
 
 - Frontend Mentor problems.
 
+## 📌 Pinned projects.
+
+[![nft-card-component](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=panda)](https://github.com/Jeymen/nft-card-component)
+
 ## 💡 I'm currently learning:
 
 - HTML and CSS
@@ -18,5 +22,5 @@ I'm a full stack developer 💻
 
 ## 📈 GitHub Stats
 
-[![Jeymen's github stats](https://github-readme-stats.vercel.app/api?username=Jeymen)](https://github.com/Jeymen)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymen&layout=compact)](https://github.com/Jeymen)
+[![Jeymen's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Jeymen&show_icons=true&theme=panda)
+![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Jeymen&theme=panda)](https://github.com/Jeymen)
