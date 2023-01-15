@@ -18,6 +18,5 @@ I'm a full stack developer 💻
 
 ## 📈 GitHub Stats
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=Jeymen)](https://github.com/Jeymen)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Jeymen)
+[![Jeymen's github stats](https://github-readme-stats.vercel.app/api?username=Jeymen)](https://github.com/Jeymen)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymen&layout=compact)](https://github.com/Jeymen)
