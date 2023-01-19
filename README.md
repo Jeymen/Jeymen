@@ -4,11 +4,9 @@ I'm a full stack web developer. 💻
 
 ## 💼 I am currently working on:
 
-- Frontend Mentor problems.
-
 ## 📌 Pinned projects:
 
-[![nft-card-component](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=onedark)](https://github.com/Jeymen/nft-card-component)
+[![nft-card-component](https://github-readme-stats-one.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=onedark)](https://github.com/Jeymen/nft-card-component)
 
 ## 💡 I'm currently learning:
 
@@ -22,7 +20,7 @@ I'm a full stack web developer. 💻
 
 ## 📈 Github Stats
 
-![Jeymen's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
+![Jeymen's github stats](https://github-readme-stats-one.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
 <br>
 
-[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Jeymen&theme=onedark)](https://github.com/Jeymen)
+[![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Jeymen&theme=onedark)](https://github.com/Jeymen)
