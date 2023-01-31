@@ -1,12 +1,12 @@
 <h2 aling = "center">
-I'm a full stack web developer. 💻
+I'm a web developer. 💻
 </h2>
 
 ## 💼 I am currently working on:
 
 ## 📌 Pinned projects:
 
-[![nft-card-component](https://github-readme-stats-one.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=onedark)](https://github.com/Jeymen/nft-card-component)
+[![nft-card-component](https://github-readme-stats.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=onedark)](https://github.com/Jeymen/nft-card-component)
 
 ## 💡 I'm currently learning:
 
@@ -18,9 +18,9 @@ I'm a full stack web developer. 💻
 ![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 Github Stats
+## 📈 Github Statistics
 
-![Jeymen's github stats](https://github-readme-stats-one.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
+![Jeymen's github stats](https://github-readme-stats.vercel.app/api?username=Jeymen&show_icons=true&theme=onedark)
 <br>
 
-[![Top Languages](https://github-readme-stats-one.vercel.app/api/top-langs/?username=Jeymen&theme=onedark)](https://github.com/Jeymen)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeymen&theme=onedark)](https://github.com/Jeymen)
