@@ -4,10 +4,6 @@ I'm a web developer. 💻
 
 ## 💼 I am currently working on:
 
-## 📌 Pinned projects:
-
-[![nft-card-component](https://github-readme-stats.vercel.app/api/pin/?username=Jeymen&repo=nft-card-component&theme=onedark)](https://github.com/Jeymen/nft-card-component)
-
 ## 💡 I'm currently learning:
 
 - HTML and CSS
