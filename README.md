@@ -18,4 +18,4 @@ I'm a web developer. 💻
 ![Jeymen's github stats](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=onedark)
 <br>
 
-![Top Languages](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=onedark)
+![Top Languages](https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Jeymen&show_icons=true&theme=onedark)
