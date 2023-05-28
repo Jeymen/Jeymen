@@ -6,6 +6,7 @@ I'm a web developer. 💻
 
 - [FrontendMentor](https://www.frontendmentor.io/) challenges.
 - Learning JavaScript
+- Learning Svelte
 
 ## ⭐ Skills
 
