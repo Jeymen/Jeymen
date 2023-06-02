@@ -1,22 +1,36 @@
-<h2 aling = "center">
-I'm a web developer. 💻
-</h2>
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## ✨ I am currently working on:
-
-- [FrontendMentor](https://www.frontendmentor.io/) challenges.
-- Learning JavaScript
-- Learning Svelte
-
-## ⭐ Skills
-
-![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📈 Github Statistics
-
-![Jeymen's github stats](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=onedark)
+My name is Jeymen and I'm a web developer and I'm from Europe. I've been passioned about tech, since I was a little kid.
 <br>
 
-![Top Languages](https://readme-stats.jonas-bernard.dev/api/top-langs/?username=Jeymen&show_icons=true&theme=onedark)
+## 🔧 Technologies & Tools
+
+---
+
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Terminal-Git-informational?style=flat&logo=GIT&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Linter-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=Brave&logoColor=white&color=39a982)
+
+<br>
+
+## 📊 Github Statistics
+
+---
+
+![Jeymen's github stats](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=vue-dark)
+
+<br>
+
+## 📨 Contact me
+
+---
+
+## ![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
+
+## ![](https://img.shields.io/badge/Jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
