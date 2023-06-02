@@ -20,5 +20,5 @@ My name is Jeymen and I'm a web developer and I'm from Europe. I've been passion
 
 ## 📨 Contact Me
 
-## ![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
-## ![](https://img.shields.io/badge/Jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
