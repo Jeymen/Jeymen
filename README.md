@@ -1,11 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Jeymen and I'm a web developer and I'm from Europe. I've been passioned about tech, since I was a little kid.
-<br>
 
 ## 🔧 Technologies & Tools
-
----
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=39a982)
@@ -17,19 +14,11 @@ My name is Jeymen and I'm a web developer and I'm from Europe. I've been passion
 ![](https://img.shields.io/badge/Linter-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=Brave&logoColor=white&color=39a982)
 
-<br>
-
 ## 📊 Github Statistics
-
----
 
 ![Jeymen's github stats](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=vue-dark)
 
-<br>
-
-## 📨 Contact me
-
----
+## 📨 Contact Me
 
 ## ![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
 
