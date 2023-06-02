@@ -1,7 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Jeymen and I'm a web developer and I'm from Europe. I've been passioned about tech, since I was a little kid.
-
+Hi, I'm Jeymen, a web developer from Europe. Ever since I was a child, I've had a deep interest in technology. 
+I began learning how to code in 2021.
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=39a982)
