@@ -20,4 +20,4 @@ I began learning how to code in 2021.
 ## 📨 Contact Me
 
 ![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/@jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
