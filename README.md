@@ -1,9 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi, I'm Jeymen, a web developer from Europe. Ever since I was a child, I've had a deep interest in technology. 
-I began learning how to code in 2021.
+I began learning how to code in 2021. I began learning to code seriously in July 2023.
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=39a982)
@@ -14,6 +15,7 @@ I began learning how to code in 2021.
 ![](https://img.shields.io/badge/Terminal-Git-informational?style=flat&logo=GIT&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/Linter-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=39a982)
 ![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=Brave&logoColor=white&color=39a982)
+![](https://img.shields.io/badge/Browser-Waterfox-informational?style=flat&logo=Firefox&logoColor=white&color=39a982)
 
 ## 📊 Github Statistics
 
