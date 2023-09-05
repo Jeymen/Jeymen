@@ -1,27 +1,20 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi, I'm Jeymen, a web developer from Europe. Ever since I was a child, I've had a deep interest in technology. 
-I began learning how to code in 2021. I began learning to code seriously in July 2023.
+# Hey there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+I'm Jeymen, just your friendly neighborhood tech enthusiast and introverted coder. I've been on a wild ride through the world of tech, and I'm excited to take you along on this digital journey with me! 🚀
+
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=Android&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=Typescript&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Code-Svelte-informational?style=flat&logo=Svelte&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Terminal-Git-informational?style=flat&logo=GIT&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Linter-Prettier-informational?style=flat&logo=prettier&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Browser-Brave-informational?style=flat&logo=Brave&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/Browser-Waterfox-informational?style=flat&logo=Firefox&logoColor=white&color=39a982)
+[![Technologies & Tools](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,dscord,vscode&theme=dark)](https://skillicons.dev)
 
-## 📊 Github Statistics
+## 🌟 Project Highlights
 
-![Jeymen's github stats](https://readme-stats.jonas-bernard.dev/api?username=Jeymen&show_icons=true&theme=vue-dark)
+1. **CodeStride (coming soon)**
 
-## 📨 Contact Me
+   - **Description:** Tired of dull code tracking extensions for VSCode? Enter CodeStride, your coding buddy! It's not just about tracking; it's about turning coding into a game with achievements, leaderboards, and bragging rights. Get ready for some coding fun! 🚀💻🏆
 
-![](https://img.shields.io/badge/@jeymendev-Twitter-informational?style=flat&logo=Twitter&logoColor=white&color=39a982)
-![](https://img.shields.io/badge/@jeymen-Discord-informational?style=flat&logo=Discord&logoColor=white&color=39a982)
+## 📨 Let's Connect
+
+Feel free to reach out! You can find me here:
+
+- Tweet me: [@jeymendev on Twitter](https://twitter.com/jeymendev) 🐦
+- Chat with me on Discord: @jeymen 🎮
