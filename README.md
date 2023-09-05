@@ -4,12 +4,11 @@ I'm Jeymen, just your friendly neighborhood tech enthusiast and introverted code
 
 ## 🔧 Technologies & Tools
 
-[![Technologies & Tools](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,dscord,vscode&theme=dark)](https://skillicons.dev)
+[![Technologies & Tools](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,vscode&theme=dark)](https://skillicons.dev)
 
 ## 🌟 Project Highlights
 
 1. **CodeStride (coming soon)**
-
    - **Description:** Tired of dull code tracking extensions for VSCode? Enter CodeStride, your coding buddy! It's not just about tracking; it's about turning coding into a game with achievements, leaderboards, and bragging rights. Get ready for some coding fun! 🚀💻🏆
 
 ## 📨 Let's Connect
