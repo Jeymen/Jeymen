@@ -1,19 +1,17 @@
-# Hey there, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hey folks! 👋 I'm Jeymen, just a tech enthusiast who loves to code. Excited to share my tech journey with you! 🚀
 
-I'm Jeymen, just your friendly neighborhood tech enthusiast and introverted coder. I've been on a wild ride through the world of tech, and I'm excited to take you along on this digital journey with me! 🚀
+## 🔧 Tech Stuff
 
-## 🔧 Technologies & Tools
+Curious about the tools I'm into? Check them out [here](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,vscodium&theme=dark)!
 
-[![Technologies & Tools](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,vscode&theme=dark)](https://skillicons.dev)
-
-## 🌟 Project Highlights
+## 🌟 Projects I'm Hyped About
 
 1. **CodeStride (coming soon)**
-   - **Description:** Tired of dull code tracking extensions for VSCode? Enter CodeStride, your coding buddy! It's not just about tracking; it's about turning coding into a game with achievements, leaderboards, and bragging rights. Get ready for some coding fun! 🚀💻🏆
+   - **What's the scoop:** Tired of boring code trackers for VSCode? Say hi to CodeStride – not just a tracker but your coding buddy! Turn coding into a game with achievements and leaderboards. Let's have some coding fun! 🚀💻🏆
 
-## 📨 Let's Connect
+2. **Codestride API**
+   - **What's the deal:** Powering CodeStride, this API is in alpha and has some cool Supabase features. Exciting times for Codestride!
 
-Feel free to reach out! You can find me here:
+## 📨 Let's Chat
 
-- Tweet me: [@jeymendev on Twitter](https://twitter.com/jeymendev) 🐦
-- Chat with me on Discord: @jeymen 🎮
+Hit me up on Twitter [@jeymendev](https://twitter.com/jeymendev) 🐦 or find me on Discord: @jeymen 🎮. Can't wait to connect!
