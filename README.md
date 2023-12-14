@@ -1,8 +1,7 @@
 Hey folks! 👋 I'm Jeymen, just a tech enthusiast who loves to code. Excited to share my tech journey with you! 🚀
 
 ## 🔧 Tech Stuff
-
-Curious about the tools I'm into? Check them out [here](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind,vscodium&theme=dark)!
+[![Technologies & Tools](https://skillicons.dev/icons?i=js,nodejs,astro,ts,html,css,tailwind&theme=dark)](https://skillicons.dev)
 
 ## 🌟 Projects I'm Hyped About
 
