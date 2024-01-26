@@ -5,4 +5,4 @@ Hey folks! 👋 I'm Jeymen, just a tech enthusiast who loves anything tech relat
 
 ## 📨 Let's Chat
 
-Hit me up on Twitter [@jeymendev](https://twitter.com/jeymendev),find me on Discord: @jeymen or email me at hello@jeymen.is-a.dev Can't wait to connect!
+Hit me up on Twitter [@jeymendev](https://twitter.com/jeymendev), find me on Discord @jeymen or email me at hello@jeymen.is-a.dev Can't wait to connect!
